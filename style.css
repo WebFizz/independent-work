@@ -1,0 +1,69 @@
+body {
+  background-color: #F5F5F5;
+  color: black;
+  font-size: 16px;
+  font-weight: normal;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  padding-top: 30px;
+}
+
+.foto {
+  width: 200px;
+  border-radius: 28px;
+  box-shadow: 4px 4px 14px rgba(0,0,0,0,25);
+}
+
+.info-text p {
+  color: #86898f;
+  margin: 0;  
+}
+
+.main {
+  max-width: 750px;
+  margin: auto;
+  padding-top: 30px;
+}
+
+.bg_yellow {
+  background: #fff9dc;
+}
+.bg_green {
+  background: #e5ffe7;
+}
+.bg_red {
+  background: #ffe5e5;
+}
+
+
+.card {
+  padding: 15px 20px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+.info-text {
+  margin-bottom: 20px;
+  display: flex;
+}
+
+.info {
+  margin-left: 40px;
+}
+
+.info h4 {
+  margin-bottom: 10px;
+}
+
+.card {
+  margin-bottom: 10px;
+}
+
+.purposes {
+  padding: 0 20px;
+  list-style: none;
+}
+
+.table {
+  width: 60%;
+}
+
